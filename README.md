@@ -30,3 +30,4 @@
 ![image](https://user-images.githubusercontent.com/81209823/203327448-3764d229-68cc-4444-b349-b5f467080ef7.png)
 Игровой цикл.
 ![image](https://user-images.githubusercontent.com/81209823/203327528-63084dfc-0a5e-497d-924e-e8bf133ca0a5.png)
+
